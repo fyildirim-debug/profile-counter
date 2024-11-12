@@ -1,0 +1,80 @@
+<?php
+return [
+    // Genel
+    'select_language' => 'Dil Seçimi',
+
+    // Ana sayfa
+    'welcome_title' => 'Ziyaretçi Sayacı Sistemi',
+    'welcome_description' => 'Web siteniz için modern ve özelleştirilebilir ziyaretçi sayacı sistemi',
+    'system_not_setup' => 'Sistem henüz kurulmamış. Kurulumu tamamlamak için aşağıdaki butona tıklayın.',
+    'setup_system' => 'Sistemi Kur',
+    'go_to_admin' => 'Yönetici Paneline Git',
+    'features_title' => 'Özellikler',
+    'feature_1_title' => 'Çoklu Sayaç Desteği',
+    'feature_1_desc' => 'İstediğiniz kadar sayaç oluşturun ve yönetin',
+    'feature_2_title' => 'İki Farklı Görünüm',
+    'feature_2_desc' => 'Görünür ve gizli sayaç seçenekleri',
+    'feature_3_title' => 'Kolay Entegrasyon',
+    'feature_3_desc' => 'Tek satır kod ile sitenize ekleyin',
+    'feature_4_title' => 'Çoklu Dil Desteği',
+    'feature_4_desc' => 'Türkçe ve İngilizce dil seçenekleri',
+
+    // Veritabanı kurulumu
+    'db_setup_title' => 'Veritabanı Yapılandırması',
+    'db_setup_description' => 'Sistem için gerekli veritabanı bilgilerini giriniz.',
+    'db_host' => 'Veritabanı Sunucusu',
+    'db_name' => 'Veritabanı Adı',
+    'db_user' => 'Veritabanı Kullanıcısı',
+    'db_pass' => 'Veritabanı Şifresi',
+    'db_test_connection' => 'Bağlantıyı Test Et',
+    'db_save_continue' => 'Kaydet ve Devam Et',
+    'db_connection_success' => 'Veritabanı bağlantısı başarılı!',
+    'db_connection_error' => 'Veritabanı bağlantı hatası:',
+    'db_host_placeholder' => 'Genellikle localhost',
+    'db_name_placeholder' => 'Örnek: visitor_counter',
+    'db_user_placeholder' => 'Veritabanı kullanıcı adı',
+    'db_pass_placeholder' => 'Veritabanı şifresi',
+
+    // Setup sayfası
+    'setup_title' => 'Sistem Kurulumu',
+    'setup_welcome' => 'Ziyaretçi Sayacı Sistemine Hoş Geldiniz',
+    'setup_description' => 'İlk kullanım için yönetici hesabı oluşturmanız gerekmektedir.',
+    'setup_admin_details' => 'Yönetici Hesap Bilgileri',
+    'setup_username' => 'Yönetici Kullanıcı Adı',
+    'setup_password' => 'Yönetici Şifresi',
+    'setup_password_confirm' => 'Şifre Tekrar',
+    'setup_button' => 'Kurulumu Tamamla',
+    'setup_success' => 'Kurulum başarıyla tamamlandı!',
+    'setup_error_password_match' => 'Şifreler eşleşmiyor!',
+    'setup_error_username_required' => 'Kullanıcı adı gereklidir!',
+    'setup_error_password_required' => 'Şifre gereklidir!',
+    'setup_error_min_length' => 'Şifre en az 6 karakter olmalıdır!',
+    'setup_login_redirect' => 'Yönetici paneline yönlendiriliyorsunuz...',
+    'setup_already_completed' => 'Kurulum zaten tamamlanmış!',
+
+    // Login sayfası
+    'admin_login' => 'Yönetici Girişi',
+    'username' => 'Kullanıcı Adı',
+    'password' => 'Şifre',
+    'login_button' => 'Giriş Yap',
+    'invalid_credentials' => 'Geçersiz kullanıcı adı veya şifre!',
+
+    // Admin panel
+    'counter_management' => 'Sayaç Yönetimi',
+    'logout' => 'Çıkış Yap',
+    'create_new_counter' => 'Yeni Sayaç Oluştur',
+    'counter_name' => 'Sayaç Adı',
+    'counter_type' => 'Sayaç Tipi',
+    'visible' => 'Görünür',
+    'hidden' => 'Gizli',
+    'create_button' => 'Oluştur',
+    'existing_counters' => 'Mevcut Sayaçlar',
+    'visits' => 'Ziyaret',
+    'creation_date' => 'Oluşturma Tarihi',
+    'code' => 'Kod',
+    'preview' => 'Önizleme',
+    'actions' => 'İşlemler',
+    'delete' => 'Sil',
+    'delete_confirm' => 'Bu sayacı silmek istediğinizden emin misiniz?',
+    'code_copied' => 'Kod kopyalandı!'
+];

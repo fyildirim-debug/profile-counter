@@ -1,0 +1,80 @@
+<?php
+return [
+    // General
+    'select_language' => 'Select Language',
+
+    // Home page
+    'welcome_title' => 'Visitor Counter System',
+    'welcome_description' => 'Modern and customizable visitor counter system for your website',
+    'system_not_setup' => 'System is not set up yet. Click the button below to complete the setup.',
+    'setup_system' => 'Setup System',
+    'go_to_admin' => 'Go to Admin Panel',
+    'features_title' => 'Features',
+    'feature_1_title' => 'Multiple Counter Support',
+    'feature_1_desc' => 'Create and manage as many counters as you want',
+    'feature_2_title' => 'Two Different Styles',
+    'feature_2_desc' => 'Choose between visible and hidden counter options',
+    'feature_3_title' => 'Easy Integration',
+    'feature_3_desc' => 'Add to your site with just one line of code',
+    'feature_4_title' => 'Multi-Language Support',
+    'feature_4_desc' => 'Turkish and English language options',
+
+    // Database setup
+    'db_setup_title' => 'Database Configuration',
+    'db_setup_description' => 'Enter the required database information for the system.',
+    'db_host' => 'Database Host',
+    'db_name' => 'Database Name',
+    'db_user' => 'Database Username',
+    'db_pass' => 'Database Password',
+    'db_test_connection' => 'Test Connection',
+    'db_save_continue' => 'Save and Continue',
+    'db_connection_success' => 'Database connection successful!',
+    'db_connection_error' => 'Database connection error:',
+    'db_host_placeholder' => 'Usually localhost',
+    'db_name_placeholder' => 'Example: visitor_counter',
+    'db_user_placeholder' => 'Database username',
+    'db_pass_placeholder' => 'Database password',
+
+    // Setup page
+    'setup_title' => 'System Setup',
+    'setup_welcome' => 'Welcome to Visitor Counter System',
+    'setup_description' => 'You need to create an administrator account for first use.',
+    'setup_admin_details' => 'Administrator Account Details',
+    'setup_username' => 'Admin Username',
+    'setup_password' => 'Admin Password',
+    'setup_password_confirm' => 'Confirm Password',
+    'setup_button' => 'Complete Setup',
+    'setup_success' => 'Setup completed successfully!',
+    'setup_error_password_match' => 'Passwords do not match!',
+    'setup_error_username_required' => 'Username is required!',
+    'setup_error_password_required' => 'Password is required!',
+    'setup_error_min_length' => 'Password must be at least 6 characters!',
+    'setup_login_redirect' => 'Redirecting to admin panel...',
+    'setup_already_completed' => 'Setup is already completed!',
+
+    // Login page
+    'admin_login' => 'Admin Login',
+    'username' => 'Username',
+    'password' => 'Password',
+    'login_button' => 'Login',
+    'invalid_credentials' => 'Invalid username or password!',
+
+    // Admin panel
+    'counter_management' => 'Counter Management',
+    'logout' => 'Logout',
+    'create_new_counter' => 'Create New Counter',
+    'counter_name' => 'Counter Name',
+    'counter_type' => 'Counter Type',
+    'visible' => 'Visible',
+    'hidden' => 'Hidden',
+    'create_button' => 'Create',
+    'existing_counters' => 'Existing Counters',
+    'visits' => 'Visits',
+    'creation_date' => 'Creation Date',
+    'code' => 'Code',
+    'preview' => 'Preview',
+    'actions' => 'Actions',
+    'delete' => 'Delete',
+    'delete_confirm' => 'Are you sure you want to delete this counter?',
+    'code_copied' => 'Code copied!'
+];
