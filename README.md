@@ -113,4 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın
 
-[![Visitors](http://fysunucu.com/profilecounter/counter_badge.php?key=302cf58618496c7e08f16cc3454519e8)](http://fysunucu.com/profilecounter/counter_badge.php?key=73c7df77b22257734237ee007f34060b)
+[![Visitors](http://fysunucu.com/profilecounter/counter_badge.php?key=302cf58618496c7e08f16cc3454519e8)](http://fysunucu.com/profilecounter/counter_badge.php?key=302cf58618496c7e08f16cc3454519e8)
